@@ -322,7 +322,7 @@ __________
 
 __________
 
-If you are a resident in the European Economic Area, the "data controller" of your personal information is PGamerX Legacy. PGamerX Legacy has appointed Peipr Dadev to be its representative in the EEA. You can contact them directly regarding the processing of your information by PGamerX Legacy, by email at bots@pgamerx.com, by visiting http://www.peiphy.xyz, by phone at none, DM Peipr#8989 on Discord, or by post to:
+If you are a resident in the European Economic Area, the "data controller" of your personal information is PGamerX Legacy. PGamerX Legacy has appointed Peipr Dadev to be its representative in the EEA. You can contact them directly regarding the processing of your information by PGamerX Legacy, by email at peipr@peiphy.xyz, by visiting http://www.peiphy.xyz, by phone at none, DM Peipr#8989 on Discord, or by post to: NA
 
 11. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
 
