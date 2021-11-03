@@ -1,7 +1,7 @@
-# Black sheep Privacy Policy
+a# Black sheep Privacy Policy
 Last updated November 02, 2021
 
-Thank you for choosing to be part of our community at PGamerX Legacy ("Company," "we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at peipr@peiphy.xyz.
+Thank you for choosing to be part of our community at PGamerX Legacy ("Company," "we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at bots@pgamerx.com.
 
 This privacy notice describes how we might use your information if you:
 
@@ -57,7 +57,7 @@ We use the information we collect or receive:
 
     To facilitate account creation and logon process. If you choose to link your account with us to a third-party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract.
 
-    To post testimonials. We post testimonials on our Website that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at peipr@peiphy.xyz and be sure to include your name, testimonial location, and contact information.
+    To post testimonials. We post testimonials on our Website that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at bots@pgamerx.com and be sure to include your name, testimonial location, and contact information.
 
     Request feedback. We may use your information to request feedback and to contact you about your use of our Website.
 
@@ -246,7 +246,7 @@ How do we use and share your personal information?
 
 More information about our data collection and sharing practices can be found in this privacy notice.
 
-You may contact us by email at peipr@peiphy.xyz, By messaging the managers of the bot via Discord: Peipr#8989 Luckie#2384 , or by referring to the contact details at the bottom of this document.
+You may contact us by email at bots@pgamerx.com, By messaging the managers of the bot via Discord: Peipr#8989 Luckie#2384 , or by referring to the contact details at the bottom of this document.
 
 If you are using an authorized agent to exercise your right to opt-out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
@@ -304,7 +304,7 @@ Other privacy rights
 
     you may request to opt-out from future selling of your personal information to third parties. Upon receiving a request to opt-out, we will act upon the request as soon as feasibly possible, but no later than 15 days from the date of the request submission.
 
-To exercise these rights, you can contact us by email at peipr@peiphy.xyz, By messaging the managers of the bot via Discord: Peipr#8989 Luckie#2384 , or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.  
+To exercise these rights, you can contact us by email at bots@pgamerx.com, By messaging the managers of the bot via Discord: Peipr#8989 Luckie#2384 , or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.  
 
 9. DO WE MAKE UPDATES TO THIS NOTICE?     
 
@@ -314,7 +314,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 10. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?     
 
-If you have questions or comments about this notice, you may email us at peipr@peiphy.xyz or by post to:
+If you have questions or comments about this notice, you may email us at bots@pgamerx.com or by post to:
 
 PGamerX Legacy
 
@@ -322,7 +322,7 @@ __________
 
 __________
 
-If you are a resident in the European Economic Area, the "data controller" of your personal information is PGamerX Legacy. PGamerX Legacy has appointed Peipr Dadev to be its representative in the EEA. You can contact them directly regarding the processing of your information by PGamerX Legacy, by email at peipr@peiphy.xyz, by visiting http://www.peiphy.xyz, by phone at none, DM Peipr#8989 on Discord, or by post to:
+If you are a resident in the European Economic Area, the "data controller" of your personal information is PGamerX Legacy. PGamerX Legacy has appointed Peipr Dadev to be its representative in the EEA. You can contact them directly regarding the processing of your information by PGamerX Legacy, by email at bots@pgamerx.com, by visiting http://www.peiphy.xyz, by phone at none, DM Peipr#8989 on Discord, or by post to:
 
 11. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
 
